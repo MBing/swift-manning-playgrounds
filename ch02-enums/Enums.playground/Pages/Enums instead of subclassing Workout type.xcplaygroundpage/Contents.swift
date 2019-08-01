@@ -10,7 +10,6 @@ struct Run {
 }
 
 struct Cycle {
-    
     enum CycleType {
         case regular
         case mountainBike
